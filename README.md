@@ -1,3 +1,18 @@
+
+# CryptoJS  #
+
+This is a fork of the original CryptoJS repository hosted by Google Code. 
+
+### Why ###
+
+It wouldn't be nice to loose this valuable project due to the Google Code termination. That's why there's a fork. I may continue the development some way down the road, but right know it is meant just for backup purpose.
+
+Below the README file written by the creator Jeff Mott (Jeff.Mott.OR@gmail.com).
+
+---
+
+---
+
 CryptoJS is a growing collection of standard and secure cryptographic algorithms implemented in JavaScript using best practices and patterns. They are fast, and they have a consistent and simple interface.
 
 If you have a problem with CryptoJS, if you want to discuss new features, or if you want to contribute to the project, you can visit the CryptoJS discussion group.
